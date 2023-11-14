@@ -1,0 +1,12 @@
+C:\Users\0030482311033\Downloads\PDespesas0030482311016\PDespesas0030482311016\bin\Debug\PDespesas0030482311016.exe.config
+C:\Users\0030482311033\Downloads\PDespesas0030482311016\PDespesas0030482311016\bin\Debug\PDespesas0030482311016.exe
+C:\Users\0030482311033\Downloads\PDespesas0030482311016\PDespesas0030482311016\bin\Debug\PDespesas0030482311016.pdb
+C:\Users\0030482311033\Downloads\PDespesas0030482311016\PDespesas0030482311016\obj\Debug\PDespesas0030482311016.csprojAssemblyReference.cache
+C:\Users\0030482311033\Downloads\PDespesas0030482311016\PDespesas0030482311016\obj\Debug\PDespesas0030482311016.frmPrincipal.resources
+C:\Users\0030482311033\Downloads\PDespesas0030482311016\PDespesas0030482311016\obj\Debug\PDespesas0030482311016.Properties.Resources.resources
+C:\Users\0030482311033\Downloads\PDespesas0030482311016\PDespesas0030482311016\obj\Debug\PDespesas0030482311016.csproj.GenerateResource.cache
+C:\Users\0030482311033\Downloads\PDespesas0030482311016\PDespesas0030482311016\obj\Debug\PDespesas0030482311016.csproj.CoreCompileInputs.cache
+C:\Users\0030482311033\Downloads\PDespesas0030482311016\PDespesas0030482311016\obj\Debug\PDespesas0030482311016.exe
+C:\Users\0030482311033\Downloads\PDespesas0030482311016\PDespesas0030482311016\obj\Debug\PDespesas0030482311016.pdb
+C:\Users\0030482311033\Downloads\PDespesas0030482311016\PDespesas0030482311016\obj\Debug\PDespesas0030482311016.frmDespesa.resources
+C:\Users\0030482311033\Downloads\PDespesas0030482311016\PDespesas0030482311016\obj\Debug\PDespesas0030482311016.frmSobre.resources
